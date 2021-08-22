@@ -21,8 +21,8 @@ status-website:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
- # cname: status.northoffalydojo.xyz
-  baseUrl: /statuspage
+ cname: status.northoffalydojo.xyz
+  # baseUrl: /statuspage
   logoUrl: https://northoffalydojo.xyz/app/uploads/2021/05/NorthOffalyDojoNEW-Roundel.png
   name: North Offaly Dojo Status
   introTitle: "Welcome to the North Offaly Dojo status page!"
