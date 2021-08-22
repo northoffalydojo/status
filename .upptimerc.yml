@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://northoffalydojo.xyz/app/uploads/2021/05/NorthOffalyDojoNEW-Roundel.png
   name: North Offaly Dojo Status
-  introTitle: "**Welcome to the North Offaly Dojo status page!"
+  introTitle: "Welcome to the North Offaly Dojo status page!"
   introMessage: If you are having trouble accessing a North Offaly Dojo website you can check whether they are down for everyone or just you! We ping our websites every 5 minutes.
   navbar:
     - title: Status
