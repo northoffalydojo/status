@@ -16,9 +16,6 @@ assignees:
   - patrickobriain   
   
 status-website:
-  css: "body {font-family: -apple-system, BlinkMacSystemFont, system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;}"
-
-status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
  cname: status.northoffalydojo.xyz
