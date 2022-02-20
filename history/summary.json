@@ -91,9 +91,9 @@
     "url": "https://ti.to/northoffalydojo",
     "icon": "https://favicons.githubusercontent.com/ti.to",
     "slug": "booking-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -103,6 +103,7 @@
     "timeMonth": 726,
     "timeYear": 790,
     "dailyMinutesDown": {
+      "2022-02-20": 0,
       "2021-12-01": 42,
       "2021-09-29": 70
     }
