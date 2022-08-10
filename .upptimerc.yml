@@ -4,20 +4,20 @@ repo: status # The name of this repository
 
 sites:
   - name: Website
-    url: https://northoffalydojo.xyz
+    url: https://northoffalydojo.com
   - name: Docs
     url: https://support.northoffalydojo.xyz
   - name: Customer Portal
-    url: https://portal.northoffalydojo.xyz/support
+    url: https://northoffalydojo.freshdesk.com/support/tickets/new
   - name: Booking Page
-    url: https://ti.to/northoffalydojo
+    url: https://events.humanitix.com/north-offaly-coderdojo-2022-sessions
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.northoffalydojo.xyz
+  cname: status.northoffalydojo.com
   # baseUrl: /your-repo-name
-  logoUrl: https://northoffalydojo.xyz/app/uploads/2021/05/NorthOffalyDojoNEW-Roundel.png
+  logoUrl: http://northoffalydojo.com/wp-content/uploads/2021/09/North-Offaly-Roundel-Sept-2021.png
   name: North Offaly Dojo Status
   introTitle: "Welcome to the North Offaly Dojo status page!"
   introMessage: If you are having trouble accessing a North Offaly Dojo website you can check whether they are down for everyone or just you! We ping our websites every 5 minutes.
@@ -27,7 +27,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Back to main website
-      href: https://northoffalydojo.xyz
+      href: https://northoffalydojo.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
