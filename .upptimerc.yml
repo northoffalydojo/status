@@ -6,7 +6,7 @@ sites:
   - name: Website
     url: https://northoffalydojo.com
   - name: Docs
-    url: https://support.northoffalydojo.xyz
+    url: https://docs.northoffalydojo.com
   - name: Customer Portal
     url: https://northoffalydojo.freshdesk.com/support/tickets/new
   - name: Booking Page
