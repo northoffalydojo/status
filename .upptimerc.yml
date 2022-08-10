@@ -7,7 +7,7 @@ sites:
     url: https://northoffalydojo.com
   - name: Docs
     url: https://docs.northoffalydojo.com
-  - name: Customer Portal
+  - name: Ticketing
     url: https://northoffalydojo.freshdesk.com/support/tickets/new
   - name: Booking Page
     url: https://events.humanitix.com/north-offaly-coderdojo-2022-sessions
