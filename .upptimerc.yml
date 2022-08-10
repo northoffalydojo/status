@@ -16,8 +16,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.northoffalydojo.com
-  logoUrl: http://northoffalydojo.com/wp-content/uploads/2021/09/North-Offaly-Roundel-Sept-2021.png
+  logoUrl: https://northoffalydojo.com/wp-content/uploads/2021/09/North-Offaly-Roundel-Sept-2021.png
   name: North Offaly Dojo Status
+  favicon: https://northoffalydojo.com/wp-content/uploads/2021/09/North-Offaly-Roundel-Sept-2021.png
   introTitle: "Welcome to the North Offaly Dojo status page!"
   introMessage: If you are having trouble accessing a North Offaly Dojo website you can check whether they are down for everyone or just you! We ping our websites every 5 minutes.
   navbar:
