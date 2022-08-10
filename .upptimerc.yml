@@ -19,7 +19,6 @@ status-website:
   logoUrl: https://northoffalydojo.com/wp-content/uploads/2021/09/North-Offaly-Roundel-Sept-2021.png
   name: North Offaly Dojo Status
   favicon: https://northoffalydojo.com/wp-content/uploads/2021/09/North-Offaly-Roundel-Sept-2021.png
-  themeUrl: /assets/2022-dojostyle.css
   introTitle: "Welcome to the North Offaly Dojo status page!"
   introMessage: If you are having trouble accessing a North Offaly Dojo website you can check whether they are down for everyone or just you! We ping our websites every 5 minutes.
   navbar:
